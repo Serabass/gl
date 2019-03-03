@@ -27,20 +27,12 @@ $chord Am = 012200
 $note ReDiezFive = D#5
 $note MyNote = E5
 
-
-
-
-
-
-
-
-
 key [optional data] {
 	[block body]
 }
+```
 
-
-
+``
 #include <predefined-chords.gl>
 track {
 	tempo 120bpm
