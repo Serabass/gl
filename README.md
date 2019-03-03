@@ -32,7 +32,7 @@ key [optional data] {
 }
 ```
 
-``
+```
 #include <predefined-chords.gl>
 track {
 	tempo 120bpm
