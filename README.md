@@ -1,5 +1,6 @@
 # gl
 
+```
 tuning E3A3D4G4B4E5
 capo 1
 key G
@@ -111,3 +112,4 @@ track {
 	}
 }
 
+```
