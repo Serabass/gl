@@ -41,7 +41,7 @@ key [optional data] {
 
 
 
-
+#include <predefined-chords.gl>
 track {
 	tempo 120bpm
 	bar-size 4/4
