@@ -34,7 +34,7 @@ key [optional data] {
 
 ```
 #include <predefined-chords.gl>
-track {
+track Unforgiven {
 	tempo 120bpm
 	bar-size 4/4
 
@@ -104,4 +104,12 @@ track {
 	}
 }
 
+```
+
+```
+    keyword [args] {
+    	body {
+	    field ...values
+	}
+    }
 ```
